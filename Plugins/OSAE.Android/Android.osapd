@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin-description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="3.0">
+<plugin-name>Android</plugin-name>
+<plugin-id>f88b71e1-4047-4748-8ccb-e208f522c03c</plugin-id>
+<plugin-version>0.4.9</plugin-version>
+<plugin-state>alpha</plugin-state>
+<short-description>Android Extension for OSA</short-description>
+<author>Brian Bridger</author>
+<destination-folder>Android</destination-folder>
+<main-file>OSAE.Android.dll</main-file>
+<wiki-url>http://www.opensourceautomation.com/wiki/index.php?title=Android</wiki-url>
+<additional-assemblies>
+</additional-assemblies>
+<x64-additional-assemblies>
+</x64-additional-assemblies>
+</plugin-description>
